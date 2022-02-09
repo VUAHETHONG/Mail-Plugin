@@ -4,13 +4,13 @@
   <Version>2.0.0</Version>
   <ProviderName>VUA HE THONG</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="VHT for Outlook"/>
-  <Description DefaultValue="VHT for Outlook."/>
-  <IconUrl DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-128.png"/>
-  <SupportUrl DefaultValue="https://www.odoo.com/help"/>
+  <DisplayName DefaultValue="VUA HE THONG"/>
+  <Description DefaultValue="VUA HE THONG."/>
+  <IconUrl DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-128.png"/>
+  <SupportUrl DefaultValue="https://vuahethong.com"/>
   <AppDomains>
-    <AppDomain>https://download.odoo.com/plugins/v15/outlook</AppDomain>
+    <AppDomain>https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://download.odoo.com/plugins/v15/outlook/taskpane.html"/>
+        <SourceLocation DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -72,17 +72,17 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-32.png"/>
-        <bt:Image id="Icon.64x64" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-64.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-80.png"/>
-        <bt:Image id="Icon.128x128" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-128.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-32.png"/>
+        <bt:Image id="Icon.64x64" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-64.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-80.png"/>
+        <bt:Image id="Icon.128x128" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-128.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://download.odoo.com/plugins/v15/outlook/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Odoo for Outlook"/>
+        <bt:String id="GroupLabel" DefaultValue="VUA HE THONG"/>
         <bt:String id="TaskpaneButton.Label" DefaultValue="Open contact profile"/>
       </bt:ShortStrings>
       <bt:LongStrings>
@@ -129,17 +129,17 @@
       </Hosts>
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-16.png"/>
-          <bt:Image id="Icon.32x32" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-32.png"/>
-          <bt:Image id="Icon.64x64" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-64.png"/>
-          <bt:Image id="Icon.80x80" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-80.png"/>
-          <bt:Image id="Icon.128x128" DefaultValue="https://download.odoo.com/plugins/v15/outlook/assets/odoo-128.png"/>
+          <bt:Image id="Icon.16x16" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-16.png"/>
+          <bt:Image id="Icon.32x32" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-32.png"/>
+          <bt:Image id="Icon.64x64" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-64.png"/>
+          <bt:Image id="Icon.80x80" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-80.png"/>
+          <bt:Image id="Icon.128x128" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-128.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://download.odoo.com/plugins/v15/outlook/taskpane.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/taskpane.html"/>
         </bt:Urls>
         <bt:ShortStrings>
-          <bt:String id="GroupLabel" DefaultValue="Odoo for Outlook"/>
+          <bt:String id="GroupLabel" DefaultValue="VUA HE THONG"/>
           <bt:String id="TaskpaneButton.Label" DefaultValue="Open sender profile"/>
         </bt:ShortStrings>
         <bt:LongStrings>
