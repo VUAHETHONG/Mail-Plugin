@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/taskpane.html"/>
+        <SourceLocation DefaultValue="https://download.odoo.com/plugins/v15/outlook/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -79,7 +79,7 @@
         <bt:Image id="Icon.128x128" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-128.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/taskpane.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://download.odoo.com/plugins/v15/outlook/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="VUA HE THONG"/>
@@ -136,7 +136,7 @@
           <bt:Image id="Icon.128x128" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/assets/vuahethong-128.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/VUAHETHONG/mail_plugin/main/outlook/taskpane.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://download.odoo.com/plugins/v15/outlook/taskpane.html"/>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="VUA HE THONG"/>
